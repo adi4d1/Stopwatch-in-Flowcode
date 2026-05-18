@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Stopwatch Project</title>
+  <title>Stopwatch Projec</title>
   <style>
     body {
       font-family: 'Segoe UI', Arial, sans-serif;
