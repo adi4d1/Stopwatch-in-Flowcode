@@ -1,42 +1,48 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Stopwatch Project</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Arial, sans-serif;
-      background: linear-gradient(135deg, #1e3c72, #2a5298);
-      color: #fff;
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      max-width: 900px;
-      margin: 50px auto;
-      background: rgba(255,255,255,0.1);
-      padding: 30px;
-      border-radius: 12px;
-      box-shadow: 0 0 20px rgba(0,0,0,0.3);
-      text-align: center;
-    }
-    h1 {
-      font-size: 2.5em;
-      margin-bottom: 10px;
-      color: #ffdd57;
-    }
-    p {
-      font-size: 1.2em;
-      line-height: 1.6;
-    }
-    .skills ul {
-      list-style: none;
-      padding: 0;
-    }
-    .skills li {
-      background: rgba(255,255,255,0.2);
-      margin: 8px;
-      padding: 10px;
-      border-radius: 8px;
-    }
-    .gallery img
+<div align="center">
+
+# ⏱️ Stopwatch Project
+
+<p style="color:#ffdd57; font-size:20px;">
+⚡ Built in <b>Flowcode</b>  
+💻 Student at <b>Electrical Engineering High School</b>  
+🌍 Passionate about electronics & embedded systems
+</p>
+
+---
+
+## 🚀 About the Project
+🔧 Stopwatch with start/stop and reset functions  
+📟 Time display on LCD  
+💡 Designed for microcontroller integration  
+
+---
+
+## 🛠️ Skills & Tools
+<table>
+  <tr>
+    <td>⚡ Embedded programming</td>
+    <td>🔌 Circuit design</td>
+  </tr>
+  <tr>
+    <td>💻 Flowcode & Arduino</td>
+    <td>🌐 Open‑source collaboration</td>
+  </tr>
+</table>
+
+---
+
+## 📸 Gallery
+<img src="images/stopwatch.png" width="250" alt="Stopwatch Project"/>
+<img src="images/circuit.png" width="250" alt="Circuit Design"/>
+
+---
+
+## 📫 Connect With Me
+<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+---
+
+<div style="background:#f4f4f9; padding:15px; border-radius:8px; box-shadow:0 0 10px rgba(0,0,0,0.1); color:#000;">
+💡 <i>“Code + Cir
