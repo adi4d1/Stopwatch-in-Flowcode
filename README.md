@@ -34,6 +34,9 @@
 ## 📸 Gallery
 ![Stopwatch](Capture1.PNG)
 ![Stopwatch](Capture2.PNG)
+![Stopwatch](Capture3.PNG)
+
+
 
 ---
 
