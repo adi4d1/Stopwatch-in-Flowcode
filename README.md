@@ -32,8 +32,7 @@
 ---
 
 ## 📸 Gallery
-<img src="Desktop/Capture1" width="250" alt="Stopwatch Project"/>
-<img src="images/circuit.png" width="250" alt="Circuit Design"/>
+![Stopwatch](Capture1.PNG)
 
 ---
 
